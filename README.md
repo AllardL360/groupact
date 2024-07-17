@@ -1,4 +1,4 @@
-# groupact
+# groupact Pexels
 - Clone this repository to your local machine
 - cd your project
 - Run npm install to install dependencies.
