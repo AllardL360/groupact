@@ -1,4 +1,8 @@
 # groupact Pexels
+allard kehn legaspi
+mary grace name
+kristine isidro
+
 - Clone this repository to your local machine
 - cd your project
 - Run npm install to install dependencies.
